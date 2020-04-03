@@ -1,7 +1,7 @@
 # Notesc-4.0
 Sistema de controle de Notas Escolares
 
-Projeto lançado em 2014 nas escolas do município de Itaquirai - Ms
+Projeto lançado em 2014 nas escolas do município de Itaquiraí - Mato Grosso do Sul.
 
 Sistema em pascal - Delphi 7.
 
